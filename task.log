@@ -1,0 +1,25 @@
+2023-09-09 15:20:59.915681
+hello_world
+args=(), kwargs={}
+Hello World
+
+2023-09-09 15:20:59.915681
+summator
+args=(2, 2), kwargs={}
+4
+
+2023-09-09 15:20:59.915681
+div
+args=(6, 2), kwargs={}
+3.0
+
+2023-09-09 15:20:59.916681
+summator
+args=(4.3,), kwargs={'b': 2.2}
+6.5
+
+2023-09-09 15:20:59.916681
+summator
+args=(), kwargs={'a': 0, 'b': 0}
+0
+
